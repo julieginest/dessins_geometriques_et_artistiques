@@ -1,0 +1,19 @@
+Do the same with the second half (I already created the folder for 31st day) force the overwrite for file that already exit:
+
+| **JAN. 15** | Create an invisible object where only the shadows can be seen. |  |
+| **JAN. 16** | Order and disorder. |  |
+| **JAN. 17** | Wallpaper group. There are only 17 ways to cover a plane with a repeating pattern. | https://en.wikipedia.org/wiki/Wallpaper_group<br>https://grahamshawcross.com/2012/10/12/classifying-symmetries/<br>https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups |
+| **JAN. 18** | Unexpected path. Draw a route that changes direction based on one very simple rule. |  |
+| **JAN. 19** | 16x16 |  |
+| **JAN. 20** | One line. An artwork that is made of a single line only. |  |
+| **JAN. 21** | Bauhaus Poster. Create a poster design inspired by the German art school Bauhaus. |  |
+| **JAN. 22** | Pen plotter ready. | https://genuary.art/tutorial/plotter |
+| **JAN. 23** | Transparency. Explore the concept of transparency. |  |
+| **JAN. 24** | Perfectionist's nightmare. |  |
+| **JAN. 25** | Organic Geometry. Forms that look or act organic but are constructed entirely from geometric shapes. |  |
+| **JAN. 26** | Recursive Grids. Split the canvas into a grid of some kind and recurse on each cell again and again. |  |
+| **JAN. 27** | Lifeform. A shape or structure that behaves as if it's alive or growing. |  |
+| **JAN. 28** | No libraries, no canvas, only HTML elements. |  |
+| **JAN. 29** | Genetic evolution and mutation. |  |
+| **JAN. 30** | Its not a bug, its a feature. |  |
+| **JAN. 31** | GLSL day. Create an artwork using only shaders. |  |

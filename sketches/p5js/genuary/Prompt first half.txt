@@ -1,0 +1,18 @@
+Based on this repo and it's refactor of P5JS, create for each day of this "genuary" a cool peace of code to create art
+
+| Day | Prompt | Links |
+| :--- | :--- | :--- |
+| **JAN. 1** | One color, one shape. |  |
+| **JAN. 2** | A video here is probably even better than reading the Wikipedia page: 12 Principles of Animation. | https://www.youtube.com/watch?v=haa7n3UGyDc |
+| **JAN. 3** | Fibonacci forever. Create a work that uses the Fibonacci sequence in some way. |  |
+| **JAN. 4** | Lowres. An image or graphic with low resolution, where details are simplified or pixelated. |  |
+| **JAN. 5** | Write "Genuary". Avoid using a font. |  |
+| **JAN. 6** | Lights on/off. Make something that changes when you switch on or off the "digital" lights. |  |
+| **JAN. 7** | Boolean algebra. Get inspired by Boolean algebra, in any way. |  |
+| **JAN. 8** | A City. Create a generative metropolis. |  |
+| **JAN. 9** | Crazy automaton. Cellular automata with crazy rules. |  |
+| **JAN. 10** | Polar coordinates. |  |
+| **JAN. 11** | Quine. A Quine is a form of code poetry, it's a computer program that outputs exactly its own source code. |  |
+| **JAN. 12** | Boxes only. |  |
+| **JAN. 13** | Self portrait. For example, get started with a very basic human face... render some random variations as well. |  |
+| **JAN. 14** | Everything fits perfectly. |  |
